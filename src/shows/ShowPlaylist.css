@@ -1,0 +1,9 @@
+td {
+    border: 1px solid white;
+    padding: .1em;
+}
+
+th {
+    background-color: white;
+    color: black;
+}
