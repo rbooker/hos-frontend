@@ -1,0 +1,61 @@
+nav {
+  color: white;
+  font-family: "Baumans", sans-serif;
+  font-size: 1.5em;
+  font-weight: 700;
+  background-color: rgba(10, 12, 14, 0.75);
+  border-bottom: 2px solid rgba(0, 0, 0, 0.125);
+  width: 100%;
+  height: 2.5em;
+  padding-top: 0.25em;
+  margin-bottom: -1em;
+}
+
+nav ul {
+  list-style-type: none;
+  margin-left: -1em;
+  padding-top: 0.25em;
+}
+
+nav li {
+  display: inline;
+  margin-right: 1em;
+}
+
+.loginlogoutbutton{
+  margin-left: 1em;
+}
+
+.navbarlink{
+  padding: .2em;
+  color: white;
+  text-decoration: none;
+  border: 2px solid #ffffff;
+  -moz-border-top-left-radius: 0.25em;
+  -moz-border-top-right-radius: 0.25em;
+  -webkit-border-top-left-radius: 0.25em;
+  -webkit-border-top-right-radius: 0.25em;
+  border-top-left-radius: 0.25em;
+  border-top-right-radius: 0.25em;
+  -moz-border-bottom-left-radius: 0.25em;
+  -moz-border-bottom-right-radius: 0.25em;
+  -webkit-border-bottom-left-radius: 0.25em;
+  -webkit-border-bottom-right-radius: 0.25em;
+  border-bottom-left-radius: 0.25em;
+  border-bottom-right-radius: 0.25em;
+
+}
+
+.navbarlink:link {
+  text-decoration: none;
+}
+
+.navbarlink:visited {
+  text-decoration: none;
+  color: white;
+}
+
+.navbarlink:hover {
+  text-decoration: none;
+  color: white;
+}
