@@ -1,0 +1,48 @@
+header {
+    padding-left: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-family: "Baumans", sans-serif;
+    /* The font used in the header */
+    background-color: #0a0c0e;
+    /* The color used in the header */
+  }
+  header h1 {
+    color: #ffffff;
+    font-size: 3em; /*2.8*/
+    font-weight: normal;
+    line-height: .85em;
+  }
+  header figure {
+    float: right;
+    padding-right: 1em;
+  }
+  header figcaption {
+    color: #ffffff;
+    margin-top: 0.25em; /*-0.5*/
+  }
+  header #hoslogo {
+    height: .8em;
+    width: 1.2em;
+    margin-left: -0.1em;
+  }
+  header #listentower {
+    height: 4.5em; /*3.75*/
+    width: 4.5em;
+  }
+
+  .headerlink {
+    text-decoration: none;
+  }
+
+  .headerlink:link {
+    text-decoration: none;
+  }
+
+  .headerlink:visited{
+    text-decoration: none;
+  }
+
+  .headerlink:hover {
+    text-decoration: none;
+  }
